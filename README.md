@@ -13,20 +13,21 @@
 </div>
 
 ## Training Data
-|Dataset|Size|Pretraining|Instruction Tuning|
+
+|<sub><sup>Dataset</sup></sub>|<sub><sup>Size</sup></sub>|<sub><sup>Pretraining</sup></sub>|<sub><sup>Instruction Tuning</sup></sub>|
 |:-|:-:|:-:|:-:|
-|[LAION](https://laion.ai/)<sup>(*)</sup>|100M| :white_check_mark:
-|[COCOCN](https://github.com/li-xirong/coco-cn)|27K|:white_check_mark:|
-|[MIMIC-IT](https://github.com/Luodian/Otter/blob/main/mimic-it/README.md)<sup>(**)</sup>|1.2M||:white_check_mark:
-|[LRV](https://fuxiaoliu.github.io/LRV/)|20K||:white_check_mark:
-|[LLaVAR](https://llavar.github.io/)|158K||:white_check_mark:
-|[TextCap](https://textvqa.org/textcaps/)|21K||:white_check_mark:
-|[VQA v2.0](https://visualqa.org/)|82K||:white_check_mark:
-|[GQA](https://github.com/stanfordnlp/mac-network)|148K||:white_check_mark:
-|[IconQA](https://iconqa.github.io/)|19K||:white_check_mark:
-|[OK-VQA](https://okvqa.allenai.org/)|9K||:white_check_mark:
-|[A-OKVQA](https://allenai.org/project/a-okvqa/home)|17K||:white_check_mark:
+|<sub><sup>[LAION](https://laion.ai/)<sup>(*)</sup></sup></sub>|<sub><sup>100M</sup></sub>| :white_check_mark:
+|<sub><sup>[COCOCN](https://github.com/li-xirong/coco-cn)|<sub><sup>27K</sup></sub>|:white_check_mark:|
+|<sub><sup>[MIMIC-IT](https://github.com/Luodian/Otter/blob/main/mimic-it/README.md)<sup>(**)</sup></sup></sub>|<sub><sup>1.2M</sup></sub>||:white_check_mark:
+|<sub><sup>[LRV](https://fuxiaoliu.github.io/LRV/)|<sub><sup>20K</sup></sub>||:white_check_mark:
+|<sub><sup>[LLaVAR](https://llavar.github.io/)|<sub><sup>158K</sup></sub>||:white_check_mark:
+|<sub><sup>[TextCap](https://textvqa.org/textcaps/)|<sub><sup>21K</sup></sub>||:white_check_mark:
+|<sub><sup>[VQA v2.0](https://visualqa.org/)|<sub><sup>82K</sup></sub>||:white_check_mark:
+|<sub><sup>[GQA](https://github.com/stanfordnlp/mac-network)|<sub><sup>148K</sup></sub>||:white_check_mark:
+|<sub><sup>[IconQA](https://iconqa.github.io/)|<sub><sup>19K</sup></sub>||:white_check_mark:
+|<sub><sup>[OK-VQA](https://okvqa.allenai.org/)|<sub><sup>9K</sup></sub>||:white_check_mark:
+|<sub><sup>[A-OKVQA](https://allenai.org/project/a-okvqa/home)|<sub><sup>17K</sup></sub>||:white_check_mark:
 
 Notes:
-*: using our designed rules to filter the original data;
-**: only including its open source part
+(*): using our designed rules to filter the original data;
+(**): only including its open source part
