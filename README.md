@@ -14,7 +14,7 @@
 
 - Visual Encoder: ViT-G/14 from EVA-CLIP 
 - Pre-trained LLM: FlanT5-XXL
-- 
+  
 ## Training Data
 
 |Dataset|Size|Pretraining|Instruction Tuning|
