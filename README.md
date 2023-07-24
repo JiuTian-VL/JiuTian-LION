@@ -19,11 +19,12 @@
 
 |Dataset|Size|Pretraining|Instruction Tuning|
 |:-|:-:|:-:|:-:|
-|[LAION](https://laion.ai/)(*)|100M| :white_check_mark:
+|[LAION](https://laion.ai/)(*)|115M| :white_check_mark:
+|[CC12M](https://github.com/google-research-datasets/conceptual-12m)|12M| :white_check_mark:
+|[SBU](https://www.cs.rice.edu/~vo9/sbucaptions/)|1M| :white_check_mark:
 |[COCOCN](https://github.com/li-xirong/coco-cn)|27K|:white_check_mark:|
 |[MIMIC-IT](https://github.com/Luodian/Otter/blob/main/mimic-it/README.md)(**)|430K||:white_check_mark:
 |[LRV](https://fuxiaoliu.github.io/LRV/)|20K||:white_check_mark:
-|[LLaVAR](https://llavar.github.io/)|158K||:white_check_mark:
 |[TextCap](https://textvqa.org/textcaps/)|109K||:white_check_mark:
 |[VQA v2.0](https://visualqa.org/)|443K||:white_check_mark:
 |[GQA](https://github.com/stanfordnlp/mac-network)|943K||:white_check_mark:
@@ -34,6 +35,7 @@
 |[Visual Dialog](https://visualdialog.org/)|123K||:white_check_mark:
 |[COCO](https://cocodataset.org/#home)|414K||:white_check_mark:
 |[VSR](https://github.com/cambridgeltl/visual-spatial-reasoning)|11K||:white_check_mark:
+|[LLaVAR](https://llavar.github.io)|442K||:white_check_mark:
 
 Notes:
 (*): using our designed rules to filter the original data;
