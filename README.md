@@ -49,3 +49,19 @@ We further evaluate LION on a object hallucination benchmark([POPE](https://gith
 
 ![MMBench](assets/LION-MMBench.jpg)
 ![POPE](assets/LION-POPE.jpg)
+
+## Qualitative Comparison
+
+![Qualitative Comparison](assets/LION-Examples.jpg)
+
+## Citation
+
+If you find this work useful for your research, please kindly cite our paper:
+```
+@article{chen2023lion,
+    title={LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge}, 
+    author={Chen, Gongwei and Shen, Leyang and Shao, Rui and Deng, Xiang and Nie, Liqiang},
+    journal={arXiv preprint arXiv:2311.11860},
+    year={2023},
+}
+```
