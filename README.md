@@ -24,7 +24,7 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 
 </div>
 
-## If you find this work useful for your research, please kindly star our repo and cite our paper.
+## If you find this work useful for your research, please kindly cite our paper and star our repo.
 
 ## Updates
 - [11/2023] [Arxiv paper](https://arxiv.org/abs/2311.11860) released.
