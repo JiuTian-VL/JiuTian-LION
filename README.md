@@ -44,6 +44,8 @@ The framework of the proposed LION model:
 
  For <b>image-level</b> tasks, we focus on image captioning and Visual Question Answering (VQA). For <b>region-level</b> tasks, we evaluate LION on three REC datasets including RefCOCO, RefCOCO+ and RefCOCOg. The results, detailed in Table 1~2, highlight LION's superior performance compared to baseline models.
 
+![Score](assets/LION-Score.jpg)
+
 ![Image-level](assets/LION-Image-level.jpg)
 ![Region-level](assets/LION-Region-level.jpg)
 
