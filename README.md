@@ -57,6 +57,11 @@ We further evaluate LION on a object hallucination benchmark([POPE](https://gith
 ## Qualitative Comparison
 
 ![Qualitative Comparison](assets/LION-Examples.jpg)
+![Qualitative Comparison](assets/LION-CapVQA.jpg)
+![Qualitative Comparison](assets/LION-REC.jpg)
+
+## More Examples
+![Qualitative Comparison](assets/LION-6Examples.jpg)
 
 ## Citation
 
