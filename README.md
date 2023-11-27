@@ -14,7 +14,7 @@
 School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen<br>
 †Corresponding author
 
-[[Paper]](https://arxiv.org/abs/2311.11860) [[Project Page]](https://rshaojimmy.github.io/Projects/JiuTian-LION)
+[[Paper]](https://arxiv.org/abs/2311.11860) [[Project Page]](https://rshaojimmy.github.io/Projects/JiuTian-LION) [[Video]](https://www.youtube.com/watch?v=YzJ5MZFS5RA) [[Video(bilibili)]](https://www.bilibili.com/video/BV1kH4y1y7UR/)
 
 :fire: Details will be released. Stay tuned :beers: :+1: 
 </div>
