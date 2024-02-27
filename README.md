@@ -30,6 +30,7 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 ## If you find this work useful for your research, please kindly cite our paper and star our repo.
 
 ## Updates
+- [02/2024] LION has been accepted by CVPR 2024.
 - [11/2023] [Arxiv paper](https://arxiv.org/abs/2311.11860) released.
 - [11/2023] [Project page](https://rshaojimmy.github.io/Projects/JiuTian-LION) released.
 
