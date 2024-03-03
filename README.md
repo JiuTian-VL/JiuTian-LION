@@ -6,13 +6,15 @@
 <div>
     <a href="https://scholar.google.com/citations?user=Mpg0w3cAAAAJ" target="_blank">Gongwei Chen</a>,
     <a href="https://www.slywiki.cn/" target="_blank">Leyang Shen</a>,
-    <a href="https://rshaojimmy.github.io/" target="_blank">Rui Shao†</a>,
+    <a href="https://rshaojimmy.github.io/" target="_blank">Rui Shao*</a>,
     <a href="https://xiang-deng-dl.github.io/" target="_blank">Xiang Deng</a>,
-    <a href="https://liqiangnie.github.io/" target="_blank">Liqiang Nie†</a>
+    <a href="https://liqiangnie.github.io/" target="_blank">Liqiang Nie*</a>
 </div>
 
 School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen<br>
-†Corresponding author
+*Corresponding author
+
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 
 [[Paper]](https://arxiv.org/abs/2311.11860) [[Project Page]](https://rshaojimmy.github.io/Projects/JiuTian-LION) [[Video(YouTube)]](https://www.youtube.com/watch?v=YzJ5MZFS5RA) [[Video(bilibili)]](https://www.bilibili.com/video/BV1kH4y1y7UR/) 
 
