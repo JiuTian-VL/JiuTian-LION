@@ -71,10 +71,10 @@ We further evaluate LION on a object hallucination benchmark([POPE](https://gith
 
 If you find this work useful for your research, please kindly cite our paper:
 ```
-@article{chen2023lion,
+@inproceedings{chen2024lion,
     title={LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge}, 
     author={Chen, Gongwei and Shen, Leyang and Shao, Rui and Deng, Xiang and Nie, Liqiang},
-    journal={arXiv preprint arXiv:2311.11860},
-    year={2023}
+    booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year={2024}
 }
 ```
