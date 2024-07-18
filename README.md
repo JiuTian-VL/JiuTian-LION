@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- <h1>JiuTian (九天) </h1> -->
-<h2 class="papername"> <img src="./assets/LION_logo.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> JiuTian-LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge </h2>
+<h2 class="papername"> <img src="./assets/LION_logo.png" style="vertical-align: middle; height: 1em; padding: 0 0.2em;"> LION: Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge </h2>
 <div>
 <div>
     <a href="https://scholar.google.com/citations?user=Mpg0w3cAAAAJ" target="_blank">Gongwei Chen</a>,
