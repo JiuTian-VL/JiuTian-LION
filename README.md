@@ -32,6 +32,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 ## If you find this work useful for your research, please kindly cite our paper and star our repo.
 
 ## Updates
+- [07/2024] Code and checkpoints are released.
 - [02/2024] LION has been accepted by CVPR 2024.
 - [11/2023] [Arxiv paper](https://arxiv.org/abs/2311.11860) released.
 - [11/2023] [Project page](https://rshaojimmy.github.io/Projects/JiuTian-LION) released.
@@ -45,6 +46,44 @@ The framework of the proposed LION model:
 <div align="center">
 <img src='./assets/LION-Method.jpg' width='100%'>
 </div>
+
+## Installation
+
+### Download
+```bash
+git clone https://github.com/JiuTian-VL/JiuTian-LION.git
+cd JiuTian-LION
+```
+
+### Environment
+
+```bash
+conda create -n LION python=3.12
+conda activate LION
+conda install pip
+pip install -r requirements.txt
+```
+
+## Checkpoints
+
+| Version | Checkpoint |
+| --- | --- |
+| LION-FlanT5-XL| [daybreaksly/LION-FlanT5-XL](https://huggingface.co/daybreaksly/LION-FlanT5-XL) |
+| LION-FlanT5-XXL| [daybreaksly/LION-FlanT5-XXL](https://huggingface.co/daybreaksly/LION-FlanT5-XXL) |
+
+## Usage
+
+### Prepare models
+
+1. Download the pre-trained vit model [eva_vit_g](https://storage.googleapis.com/sfr-vision-language-research/LAVIS/models/BLIP2/eva_vit_g.pth).
+2. Download the pre-trained RAM model [ram_swin_large_14m](https://huggingface.co/spaces/xinyu1205/Recognize_Anything-Tag2Text/blob/main/ram_swin_large_14m.pth).
+3. Download the pre-trained FlanT5 model [FlanT5-XL](https://huggingface.co/google/flan-t5-xl).
+4. Download the pre-trained BERT model [bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased)
+5. Fill in the paths to these models into the corresponding locations in the config file `configs\models\lion_flant5xl.yaml`
+
+### Inference
+
+We provide inference examples for **Image-Level** and **Region-Level** tasks in `playground.ipynb`.
 
 ## Evaluation results
 

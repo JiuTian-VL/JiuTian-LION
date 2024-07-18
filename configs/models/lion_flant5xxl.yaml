@@ -1,0 +1,10 @@
+model:
+  bert_model: "/path/to/bert-base-uncased/"
+  vit_model: "/path/to/eva_vit_g.pth"
+  llm_model: "/path/to/flan-t5-xxl/"
+  ram_model: "/path/to/ram_swin_large_14m.pth"
+  visual_input: "ALL"
+  enable_semantic_tags: True
+
+  load_pretrained: True
+  pretrained: /path/to/LION-FlanT5-XXL.pth  
